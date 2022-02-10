@@ -1,1 +1,1 @@
-# skynet
+# skinet
